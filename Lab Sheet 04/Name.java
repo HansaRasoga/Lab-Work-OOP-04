@@ -42,7 +42,7 @@ public class Name
         Middle_Name = scanner.nextLine();
         System.out.print("Enter Last Name: ");
         Last_Name = scanner.nextLine();
-        // Do not close scanner here to avoid closing System.in
+        scanner.close();
     }
 
     public String toString()
