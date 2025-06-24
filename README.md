@@ -1,4 +1,4 @@
-# This are the questions of lab sheet 4
+# These are the questions of lab sheet 4
 Lab Sheet 4 
 
 Classes and Objects - Review
